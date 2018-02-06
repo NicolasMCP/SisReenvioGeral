@@ -1,6 +1,6 @@
 # SisReenvioGeral
 
-***```projeto GNU GPL```*** recebe emais (de servidor internos sem comunicação exterior) e reenvia para e-mails especificados no arquivo to.dat (e-mails externos) .  
+***```Projeto GNU GPL 2```*** recebe emais (de servidor internos sem comunicação exterior) e reenvia para e-mails especificados no arquivo to.dat (e-mails externos) .  
 > Escrito em VB6.  
   
 * ***```to.dat```*** escreva neste arquivo os e-mails para os quais seram reenviados os .eml, utilize ponto e vírgula para separar (conforme exêmplo).
