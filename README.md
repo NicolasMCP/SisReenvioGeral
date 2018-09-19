@@ -1,5 +1,8 @@
 # SisReenvioGeral
 
+![CRAN](https://img.shields.io/cran/l/devtools.svg?style=for-the-badge)
+
+
 ***```Projeto GNU GPL 2```*** recebe emais (de servidor internos sem comunicação exterior) e reenvia para e-mails especificados no arquivo to.dat (e-mails externos) .  
 > Escrito em VB6.  
   
